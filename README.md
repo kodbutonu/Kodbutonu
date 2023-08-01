@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1>Hi👋, I'm Eran Cheung</h1>
+<h1>Hi👋, I'm Özgür Ergin</h1>
 
 <img align="right" src="https://github-stat.alpaca.run/api?username=kodbutonu&show_icons=true&include_all_commits=true"/>
 
