@@ -41,7 +41,6 @@ npx zhnlk
     Age: 24,
     Work: "Full Stack Engineer",
     Email: "oergin526@gmail.com",
-    Website: "https://erankk.com",
     Location: "Turkey"
 }
 ```
