@@ -16,7 +16,7 @@
 - 🌱 Exploring **AI Integration** and **Advanced UI/UX Patterns**
 - 👯 Looking to collaborate on **Open Source Projects** and **Social Responsibility Initiatives**
 - 💬 Ask me about **React**, **Next.js**, **React Native**, **UI/UX Design**
-- 📫 Reach me: **ozgur.ergin@example.com**
+- 📫 Reach me: **ozgurergiin@icloud.com**
 - ⚡ Fun fact: I create applications that make a positive impact on society!
 
 ## 🛠️ Tech Stack
